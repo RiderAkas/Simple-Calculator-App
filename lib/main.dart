@@ -41,7 +41,7 @@ class _HomePageState extends State<HomePage> {
                 colorFilter: ColorFilter.mode(
                     Colors.black.withOpacity(0.01), BlendMode.darken))),
         child: Center(
-          child: Text('Welcome to My IPhone Calculator',
+          child: Text('Welcome to My IPhone Calculator😘😂😂',
               style: TextStyle(
                   fontSize: 40,
                   fontWeight: FontWeight.w700,
